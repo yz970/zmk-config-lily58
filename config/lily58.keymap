@@ -87,7 +87,7 @@
                                                  &trans             &trans                &trans                &kp C_VOLUME_DOWN    &trans  &trans     &trans     &trans
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
+            sensor-bindings = <&inc_dec_kp C_VOLUME_UP K_VOLUME_DOWN>;
         };
 
         raise_layer {
