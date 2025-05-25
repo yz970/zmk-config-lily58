@@ -68,7 +68,7 @@
                            &kp LALT  &kp LGUI  &lt 1 GRAVE  &kp SPACE    &kp RET   &lt 2 DELETE  &kp BSPC  &kp RGUI
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
+            sensor-bindings = <&inc_dec_kp K_VOLUME_UP K_VOLUME_DOWN>;
         };
 
         lower_layer {
